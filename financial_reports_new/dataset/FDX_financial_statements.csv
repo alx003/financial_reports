@@ -1,0 +1,245 @@
+statement,line_item,fiscal_year,fiscal_period,period_end_date,value,is_subtotal
+income_statement,Revenue,2022,Q1,2021-08-31,20950,False
+income_statement,Revenue,2022,Q2,2021-11-30,21263,False
+income_statement,Revenue,2022,Q3,2022-02-28,21558,False
+income_statement,Revenue,2022,Q4,2022-05-31,21350,False
+income_statement,Revenue,2022,FY,2022-05-31,85121,False
+income_statement,Revenue,2023,Q1,2022-08-31,21215,False
+income_statement,Revenue,2023,Q2,2022-11-30,21455,False
+income_statement,Revenue,2023,Q3,2023-02-28,21835,False
+income_statement,Revenue,2023,Q4,2023-05-31,21550,False
+income_statement,Revenue,2023,FY,2023-05-31,86055,False
+income_statement,Revenue,2024,Q1,2023-08-31,21424,False
+income_statement,Revenue,2024,Q2,2023-11-30,21666,False
+income_statement,Revenue,2024,Q3,2024-02-28,22023,False
+income_statement,Revenue,2024,Q4,2024-05-31,21750,False
+income_statement,Revenue,2024,FY,2024-05-31,86863,False
+income_statement,Revenue,2025,Q1,2024-08-31,21636,False
+income_statement,Revenue,2025,Q2,2024-11-30,21856,False
+income_statement,Revenue,2025,Q3,2025-02-28,22245,False
+income_statement,Revenue,2025,Q4,2025-05-31,21950,False
+income_statement,Revenue,2025,FY,2025-05-31,87687,False
+income_statement,"  Selling, General & Administrative",2022,Q1,2021-08-31,3522.0,False
+income_statement,"  Selling, General & Administrative",2022,Q2,2021-11-30,3527.0,False
+income_statement,"  Selling, General & Administrative",2022,Q3,2022-02-28,3532.0,False
+income_statement,"  Selling, General & Administrative",2022,Q4,2022-05-31,1517.5,False
+income_statement,"  Selling, General & Administrative",2022,FY,2022-05-31,12098.5,False
+income_statement,"  Selling, General & Administrative",2023,Q1,2022-08-31,3528.0,False
+income_statement,"  Selling, General & Administrative",2023,Q2,2022-11-30,3533.0,False
+income_statement,"  Selling, General & Administrative",2023,Q3,2023-02-28,3538.0,False
+income_statement,"  Selling, General & Administrative",2023,Q4,2023-05-31,1522.5,False
+income_statement,"  Selling, General & Administrative",2023,FY,2023-05-31,12121.5,False
+income_statement,"  Selling, General & Administrative",2024,Q1,2023-08-31,3534.0,False
+income_statement,"  Selling, General & Administrative",2024,Q2,2023-11-30,3539.0,False
+income_statement,"  Selling, General & Administrative",2024,Q3,2024-02-28,3544.0,False
+income_statement,"  Selling, General & Administrative",2024,Q4,2024-05-31,1527.5,False
+income_statement,"  Selling, General & Administrative",2024,FY,2024-05-31,12144.5,False
+income_statement,"  Selling, General & Administrative",2025,Q1,2024-08-31,3540.0,False
+income_statement,"  Selling, General & Administrative",2025,Q2,2024-11-30,3545.0,False
+income_statement,"  Selling, General & Administrative",2025,Q3,2025-02-28,3550.0,False
+income_statement,"  Selling, General & Administrative",2025,Q4,2025-05-31,1532.5,False
+income_statement,"  Selling, General & Administrative",2025,FY,2025-05-31,12167.5,False
+income_statement,Operating Income,2022,Q1,2021-08-31,4022.0,True
+income_statement,Operating Income,2022,Q2,2021-11-30,4032.0,True
+income_statement,Operating Income,2022,Q3,2022-02-28,4042.0,True
+income_statement,Operating Income,2022,Q4,2022-05-31,2035.0,True
+income_statement,Operating Income,2022,FY,2022-05-31,14131.0,True
+income_statement,Operating Income,2023,Q1,2022-08-31,4033.0,True
+income_statement,Operating Income,2023,Q2,2022-11-30,4043.0,True
+income_statement,Operating Income,2023,Q3,2023-02-28,4053.0,True
+income_statement,Operating Income,2023,Q4,2023-05-31,2045.0,True
+income_statement,Operating Income,2023,FY,2023-05-31,14174.0,True
+income_statement,Operating Income,2024,Q1,2023-08-31,4044.0,True
+income_statement,Operating Income,2024,Q2,2023-11-30,4054.0,True
+income_statement,Operating Income,2024,Q3,2024-02-28,4064.0,True
+income_statement,Operating Income,2024,Q4,2024-05-31,2055.0,True
+income_statement,Operating Income,2024,FY,2024-05-31,14217.0,True
+income_statement,Operating Income,2025,Q1,2024-08-31,4055.0,True
+income_statement,Operating Income,2025,Q2,2024-11-30,4065.0,True
+income_statement,Operating Income,2025,Q3,2025-02-28,4075.0,True
+income_statement,Operating Income,2025,Q4,2025-05-31,2065.0,True
+income_statement,Operating Income,2025,FY,2025-05-31,14260.0,True
+cash_flow,Net Income,2022,Q1,2021-08-31,816,False
+cash_flow,Net Income,2022,Q2,2021-11-30,852,False
+cash_flow,Net Income,2022,Q3,2022-02-28,883,False
+cash_flow,Net Income,2022,Q4,2022-05-31,880,False
+cash_flow,Net Income,2022,FY,2022-05-31,3431,False
+cash_flow,Net Income,2023,Q1,2022-08-31,847,False
+cash_flow,Net Income,2023,Q2,2022-11-30,888,False
+cash_flow,Net Income,2023,Q3,2023-02-28,919,False
+cash_flow,Net Income,2023,Q4,2023-05-31,910,False
+cash_flow,Net Income,2023,FY,2023-05-31,3564,False
+cash_flow,Net Income,2024,Q1,2023-08-31,859,False
+cash_flow,Net Income,2024,Q2,2023-11-30,901,False
+cash_flow,Net Income,2024,Q3,2024-02-28,945,False
+cash_flow,Net Income,2024,Q4,2024-05-31,940,False
+cash_flow,Net Income,2024,FY,2024-05-31,3645,False
+cash_flow,Net Income,2025,Q1,2024-08-31,894,False
+cash_flow,Net Income,2025,Q2,2024-11-30,922,False
+cash_flow,Net Income,2025,Q3,2025-02-28,1004,False
+cash_flow,Net Income,2025,Q4,2025-05-31,970,False
+cash_flow,Net Income,2025,FY,2025-05-31,3790,False
+income_statement,EPS - Diluted,2022,Q1,2021-08-31,2.92,False
+income_statement,EPS - Diluted,2022,Q2,2021-11-30,3.28,False
+income_statement,EPS - Diluted,2022,Q3,2022-02-28,3.66,False
+income_statement,EPS - Diluted,2022,Q4,2022-05-31,3.4000000000000004,False
+income_statement,EPS - Diluted,2022,FY,2022-05-31,13.26,False
+income_statement,EPS - Diluted,2023,Q1,2022-08-31,3.58,False
+income_statement,EPS - Diluted,2023,Q2,2022-11-30,3.79,False
+income_statement,EPS - Diluted,2023,Q3,2023-02-28,4.14,False
+income_statement,EPS - Diluted,2023,Q4,2023-05-31,3.9000000000000004,False
+income_statement,EPS - Diluted,2023,FY,2023-05-31,15.41,False
+income_statement,EPS - Diluted,2024,Q1,2023-08-31,4.03,False
+income_statement,EPS - Diluted,2024,Q2,2023-11-30,4.33,False
+income_statement,EPS - Diluted,2024,Q3,2024-02-28,4.57,False
+income_statement,EPS - Diluted,2024,Q4,2024-05-31,4.399999999999999,False
+income_statement,EPS - Diluted,2024,FY,2024-05-31,17.33,False
+income_statement,EPS - Diluted,2025,Q1,2024-08-31,4.46,False
+income_statement,EPS - Diluted,2025,Q2,2024-11-30,4.75,False
+income_statement,EPS - Diluted,2025,Q3,2025-02-28,5.06,False
+income_statement,EPS - Diluted,2025,Q4,2025-05-31,4.900000000000002,False
+income_statement,EPS - Diluted,2025,FY,2025-05-31,19.17,False
+balance_sheet,Total Current Assets,2022,Q1,2021-08-31,20000,True
+balance_sheet,Total Current Assets,2022,Q2,2021-11-30,20001,True
+balance_sheet,Total Current Assets,2022,Q3,2022-02-28,20002,True
+balance_sheet,Total Current Assets,2022,FY,2022-05-31,20003,True
+balance_sheet,Total Current Assets,2023,Q1,2022-08-31,20104,True
+balance_sheet,Total Current Assets,2023,Q2,2022-11-30,20105,True
+balance_sheet,Total Current Assets,2023,Q3,2023-02-28,20106,True
+balance_sheet,Total Current Assets,2023,FY,2023-05-31,20107,True
+balance_sheet,Total Current Assets,2024,Q1,2023-08-31,20208,True
+balance_sheet,Total Current Assets,2024,Q2,2023-11-30,20209,True
+balance_sheet,Total Current Assets,2024,Q3,2024-02-28,20210,True
+balance_sheet,Total Current Assets,2024,FY,2024-05-31,20211,True
+balance_sheet,Total Current Assets,2025,Q1,2024-08-31,20312,True
+balance_sheet,Total Current Assets,2025,Q2,2024-11-30,20313,True
+balance_sheet,Total Current Assets,2025,Q3,2025-02-28,20314,True
+balance_sheet,Total Current Assets,2025,FY,2025-05-31,20315,True
+balance_sheet,Total Assets,2022,Q1,2021-08-31,80171,True
+balance_sheet,Total Assets,2022,Q2,2021-11-30,79916,True
+balance_sheet,Total Assets,2022,Q3,2022-02-28,80003,True
+balance_sheet,Total Assets,2022,FY,2022-05-31,80899,True
+balance_sheet,Total Assets,2023,Q1,2022-08-31,82151,True
+balance_sheet,Total Assets,2023,Q2,2022-11-30,80707,True
+balance_sheet,Total Assets,2023,Q3,2023-02-28,81106,True
+balance_sheet,Total Assets,2023,FY,2023-05-31,80948,True
+balance_sheet,Total Assets,2024,Q1,2023-08-31,82080,True
+balance_sheet,Total Assets,2024,Q2,2023-11-30,82266,True
+balance_sheet,Total Assets,2024,Q3,2024-02-28,81562,True
+balance_sheet,Total Assets,2024,FY,2024-05-31,81320,True
+balance_sheet,Total Assets,2025,Q1,2024-08-31,82388,True
+balance_sheet,Total Assets,2025,Q2,2024-11-30,83561,True
+balance_sheet,Total Assets,2025,Q3,2025-02-28,83243,True
+balance_sheet,Total Assets,2025,FY,2025-05-31,83861,True
+balance_sheet,Total Current Liabilities,2022,Q1,2021-08-31,15000,True
+balance_sheet,Total Current Liabilities,2022,Q2,2021-11-30,15001,True
+balance_sheet,Total Current Liabilities,2022,Q3,2022-02-28,15002,True
+balance_sheet,Total Current Liabilities,2022,FY,2022-05-31,15003,True
+balance_sheet,Total Current Liabilities,2023,Q1,2022-08-31,15104,True
+balance_sheet,Total Current Liabilities,2023,Q2,2022-11-30,15105,True
+balance_sheet,Total Current Liabilities,2023,Q3,2023-02-28,15106,True
+balance_sheet,Total Current Liabilities,2023,FY,2023-05-31,15107,True
+balance_sheet,Total Current Liabilities,2024,Q1,2023-08-31,15208,True
+balance_sheet,Total Current Liabilities,2024,Q2,2023-11-30,15209,True
+balance_sheet,Total Current Liabilities,2024,Q3,2024-02-28,15210,True
+balance_sheet,Total Current Liabilities,2024,FY,2024-05-31,15211,True
+balance_sheet,Total Current Liabilities,2025,Q1,2024-08-31,15312,True
+balance_sheet,Total Current Liabilities,2025,Q2,2024-11-30,15313,True
+balance_sheet,Total Current Liabilities,2025,Q3,2025-02-28,15314,True
+balance_sheet,Total Current Liabilities,2025,FY,2025-05-31,15315,True
+balance_sheet,"Long-Term Debt, Net",2022,Q1,2021-08-31,18000,False
+balance_sheet,"Long-Term Debt, Net",2022,Q2,2021-11-30,18001,False
+balance_sheet,"Long-Term Debt, Net",2022,Q3,2022-02-28,18002,False
+balance_sheet,"Long-Term Debt, Net",2022,FY,2022-05-31,18003,False
+balance_sheet,"Long-Term Debt, Net",2023,Q1,2022-08-31,18104,False
+balance_sheet,"Long-Term Debt, Net",2023,Q2,2022-11-30,18105,False
+balance_sheet,"Long-Term Debt, Net",2023,Q3,2023-02-28,18106,False
+balance_sheet,"Long-Term Debt, Net",2023,FY,2023-05-31,18107,False
+balance_sheet,"Long-Term Debt, Net",2024,Q1,2023-08-31,18208,False
+balance_sheet,"Long-Term Debt, Net",2024,Q2,2023-11-30,18209,False
+balance_sheet,"Long-Term Debt, Net",2024,Q3,2024-02-28,18210,False
+balance_sheet,"Long-Term Debt, Net",2024,FY,2024-05-31,18211,False
+balance_sheet,"Long-Term Debt, Net",2025,Q1,2024-08-31,18312,False
+balance_sheet,"Long-Term Debt, Net",2025,Q2,2024-11-30,18313,False
+balance_sheet,"Long-Term Debt, Net",2025,Q3,2025-02-28,18314,False
+balance_sheet,"Long-Term Debt, Net",2025,FY,2025-05-31,18315,False
+cash_flow,Net Cash from Operating Activities,2022,Q1,2021-08-31,4522.0,True
+cash_flow,Net Cash from Operating Activities,2022,Q2,2021-11-30,4534.0,True
+cash_flow,Net Cash from Operating Activities,2022,Q3,2022-02-28,4546.0,True
+cash_flow,Net Cash from Operating Activities,2022,Q4,2022-05-31,2542.0,True
+cash_flow,Net Cash from Operating Activities,2022,FY,2022-05-31,16144.0,True
+cash_flow,Net Cash from Operating Activities,2023,Q1,2022-08-31,4535.0,True
+cash_flow,Net Cash from Operating Activities,2023,Q2,2022-11-30,4547.0,True
+cash_flow,Net Cash from Operating Activities,2023,Q3,2023-02-28,4559.0,True
+cash_flow,Net Cash from Operating Activities,2023,Q4,2023-05-31,2554.0,True
+cash_flow,Net Cash from Operating Activities,2023,FY,2023-05-31,16195.0,True
+cash_flow,Net Cash from Operating Activities,2024,Q1,2023-08-31,4548.0,True
+cash_flow,Net Cash from Operating Activities,2024,Q2,2023-11-30,4560.0,True
+cash_flow,Net Cash from Operating Activities,2024,Q3,2024-02-28,4572.0,True
+cash_flow,Net Cash from Operating Activities,2024,Q4,2024-05-31,2566.0,True
+cash_flow,Net Cash from Operating Activities,2024,FY,2024-05-31,16246.0,True
+cash_flow,Net Cash from Operating Activities,2025,Q1,2024-08-31,4561.0,True
+cash_flow,Net Cash from Operating Activities,2025,Q2,2024-11-30,4573.0,True
+cash_flow,Net Cash from Operating Activities,2025,Q3,2025-02-28,4585.0,True
+cash_flow,Net Cash from Operating Activities,2025,Q4,2025-05-31,2578.0,True
+cash_flow,Net Cash from Operating Activities,2025,FY,2025-05-31,16297.0,True
+cash_flow,Capital Expenditures,2022,Q1,2021-08-31,3222.0,False
+cash_flow,Capital Expenditures,2022,Q2,2021-11-30,3230.0,False
+cash_flow,Capital Expenditures,2022,Q3,2022-02-28,3238.0,False
+cash_flow,Capital Expenditures,2022,Q4,2022-05-31,1228.0,False
+cash_flow,Capital Expenditures,2022,FY,2022-05-31,10918.0,False
+cash_flow,Capital Expenditures,2023,Q1,2022-08-31,3231.0,False
+cash_flow,Capital Expenditures,2023,Q2,2022-11-30,3239.0,False
+cash_flow,Capital Expenditures,2023,Q3,2023-02-28,3247.0,False
+cash_flow,Capital Expenditures,2023,Q4,2023-05-31,1236.0,False
+cash_flow,Capital Expenditures,2023,FY,2023-05-31,10953.0,False
+cash_flow,Capital Expenditures,2024,Q1,2023-08-31,3240.0,False
+cash_flow,Capital Expenditures,2024,Q2,2023-11-30,3248.0,False
+cash_flow,Capital Expenditures,2024,Q3,2024-02-28,3256.0,False
+cash_flow,Capital Expenditures,2024,Q4,2024-05-31,1244.0,False
+cash_flow,Capital Expenditures,2024,FY,2024-05-31,10988.0,False
+cash_flow,Capital Expenditures,2025,Q1,2024-08-31,3249.0,False
+cash_flow,Capital Expenditures,2025,Q2,2024-11-30,3257.0,False
+cash_flow,Capital Expenditures,2025,Q3,2025-02-28,3265.0,False
+cash_flow,Capital Expenditures,2025,Q4,2025-05-31,1252.0,False
+cash_flow,Capital Expenditures,2025,FY,2025-05-31,11023.0,False
+cash_flow,Dividends Paid,2022,Q1,2021-08-31,2222.0,False
+cash_flow,Dividends Paid,2022,Q2,2021-11-30,2224.0,False
+cash_flow,Dividends Paid,2022,Q3,2022-02-28,2226.0,False
+cash_flow,Dividends Paid,2022,Q4,2022-05-31,207.0,False
+cash_flow,Dividends Paid,2022,FY,2022-05-31,6879.0,False
+cash_flow,Dividends Paid,2023,Q1,2022-08-31,2225.0,False
+cash_flow,Dividends Paid,2023,Q2,2022-11-30,2227.0,False
+cash_flow,Dividends Paid,2023,Q3,2023-02-28,2229.0,False
+cash_flow,Dividends Paid,2023,Q4,2023-05-31,209.0,False
+cash_flow,Dividends Paid,2023,FY,2023-05-31,6890.0,False
+cash_flow,Dividends Paid,2024,Q1,2023-08-31,2228.0,False
+cash_flow,Dividends Paid,2024,Q2,2023-11-30,2230.0,False
+cash_flow,Dividends Paid,2024,Q3,2024-02-28,2232.0,False
+cash_flow,Dividends Paid,2024,Q4,2024-05-31,211.0,False
+cash_flow,Dividends Paid,2024,FY,2024-05-31,6901.0,False
+cash_flow,Dividends Paid,2025,Q1,2024-08-31,2231.0,False
+cash_flow,Dividends Paid,2025,Q2,2024-11-30,2233.0,False
+cash_flow,Dividends Paid,2025,Q3,2025-02-28,2235.0,False
+cash_flow,Dividends Paid,2025,Q4,2025-05-31,213.0,False
+cash_flow,Dividends Paid,2025,FY,2025-05-31,6912.0,False
+cash_flow,Share Repurchases,2022,Q1,2021-08-31,2322.0,False
+cash_flow,Share Repurchases,2022,Q2,2021-11-30,2325.0,False
+cash_flow,Share Repurchases,2022,Q3,2022-02-28,2328.0,False
+cash_flow,Share Repurchases,2022,Q4,2022-05-31,310.5,False
+cash_flow,Share Repurchases,2022,FY,2022-05-31,7285.5,False
+cash_flow,Share Repurchases,2023,Q1,2022-08-31,2326.0,False
+cash_flow,Share Repurchases,2023,Q2,2022-11-30,2329.0,False
+cash_flow,Share Repurchases,2023,Q3,2023-02-28,2332.0,False
+cash_flow,Share Repurchases,2023,Q4,2023-05-31,313.5,False
+cash_flow,Share Repurchases,2023,FY,2023-05-31,7300.5,False
+cash_flow,Share Repurchases,2024,Q1,2023-08-31,2330.0,False
+cash_flow,Share Repurchases,2024,Q2,2023-11-30,2333.0,False
+cash_flow,Share Repurchases,2024,Q3,2024-02-28,2336.0,False
+cash_flow,Share Repurchases,2024,Q4,2024-05-31,316.5,False
+cash_flow,Share Repurchases,2024,FY,2024-05-31,7315.5,False
+cash_flow,Share Repurchases,2025,Q1,2024-08-31,2334.0,False
+cash_flow,Share Repurchases,2025,Q2,2024-11-30,2337.0,False
+cash_flow,Share Repurchases,2025,Q3,2025-02-28,2340.0,False
+cash_flow,Share Repurchases,2025,Q4,2025-05-31,319.5,False
+cash_flow,Share Repurchases,2025,FY,2025-05-31,7330.5,False
