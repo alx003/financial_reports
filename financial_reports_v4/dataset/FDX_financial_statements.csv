@@ -1,0 +1,138 @@
+statement,line_item,fiscal_year,fiscal_period,period_end_date,value,is_subtotal
+income_statement,Revenue,2025,Q3,2025-02-28,22160,False
+income_statement,Revenue,2025,Q3_YTD,2025-02-28,65706,False
+income_statement,Revenue,2026,Q3,2026-02-28,24000,False
+income_statement,Revenue,2026,Q3_YTD,2026-02-28,69713,False
+income_statement,Cost of Revenue / Operating Expenses,2025,Q3,2025-02-28,20868,False
+income_statement,Cost of Revenue / Operating Expenses,2025,Q3_YTD,2025-02-28,62282,False
+income_statement,Cost of Revenue / Operating Expenses,2026,Q3,2026-02-28,22652,False
+income_statement,Cost of Revenue / Operating Expenses,2026,Q3_YTD,2026-02-28,65801,False
+income_statement,  Depreciation & Amortization,2025,Q3_YTD,2025-02-28,3207,False
+income_statement,  Depreciation & Amortization,2026,Q3_YTD,2026-02-28,3272,False
+income_statement,Operating Income,2025,Q3,2025-02-28,1292,True
+income_statement,Operating Income,2025,Q3_YTD,2025-02-28,3424,True
+income_statement,Operating Income,2026,Q3,2026-02-28,1348,True
+income_statement,Operating Income,2026,Q3_YTD,2026-02-28,3912,True
+income_statement,Interest Expense,2025,Q3,2025-02-28,-116,False
+income_statement,Interest Expense,2025,Q3_YTD,2025-02-28,-302,False
+income_statement,Interest Expense,2026,Q3,2026-02-28,-138,False
+income_statement,Interest Expense,2026,Q3_YTD,2026-02-28,-392,False
+income_statement,Pretax Income,2025,Q3,2025-02-28,1181,True
+income_statement,Pretax Income,2025,Q3_YTD,2025-02-28,3218,True
+income_statement,Pretax Income,2026,Q3,2026-02-28,1263,True
+income_statement,Pretax Income,2026,Q3_YTD,2026-02-28,3686,True
+income_statement,Income Tax Expense (Benefit),2025,Q3,2025-02-28,272,False
+income_statement,Income Tax Expense (Benefit),2025,Q3_YTD,2025-02-28,774,False
+income_statement,Income Tax Expense (Benefit),2026,Q3,2026-02-28,207,False
+income_statement,Income Tax Expense (Benefit),2026,Q3_YTD,2026-02-28,850,False
+income_statement,Net Income from Continuing Operations,2025,Q3,2025-02-28,909.0,True
+income_statement,Net Income from Continuing Operations,2025,Q3_YTD,2025-02-28,2444.0,True
+income_statement,Net Income from Continuing Operations,2026,Q3,2026-02-28,1056.0,True
+income_statement,Net Income from Continuing Operations,2026,Q3_YTD,2026-02-28,2836.0,True
+cash_flow,Net Income,2025,Q3,2025-02-28,909,False
+cash_flow,Net Income,2025,Q3_YTD,2025-02-28,2444,False
+cash_flow,Net Income,2026,Q3,2026-02-28,1056,False
+cash_flow,Net Income,2026,Q3_YTD,2026-02-28,2836,False
+income_statement,EPS - Basic,2025,Q3,2025-02-28,3.79,False
+income_statement,EPS - Basic,2025,Q3_YTD,2025-02-28,10.09,False
+income_statement,EPS - Basic,2026,Q3,2026-02-28,4.46,False
+income_statement,EPS - Basic,2026,Q3_YTD,2026-02-28,12.01,False
+income_statement,EPS - Diluted,2025,Q3,2025-02-28,3.76,False
+income_statement,EPS - Diluted,2025,Q3_YTD,2025-02-28,9.99,False
+income_statement,EPS - Diluted,2026,Q3,2026-02-28,4.41,False
+income_statement,EPS - Diluted,2026,Q3_YTD,2026-02-28,11.91,False
+income_statement,Weighted Avg Shares - Basic,2026,Q3,2026-02-28,236,False
+income_statement,Weighted Avg Shares - Basic,2026,Q3_YTD,2026-02-28,236,False
+income_statement,Weighted Avg Shares - Diluted,2026,Q3,2026-02-28,239,False
+income_statement,Weighted Avg Shares - Diluted,2026,Q3_YTD,2026-02-28,238,False
+balance_sheet,Cash & Cash Equivalents,2025,FY,2025-05-31,5502,False
+balance_sheet,Cash & Cash Equivalents,2026,Q3,2026-02-28,8008,False
+balance_sheet,"Accounts Receivable, Net",2025,FY,2025-05-31,11368,False
+balance_sheet,"Accounts Receivable, Net",2026,Q3,2026-02-28,11807,False
+balance_sheet,"Inventory, Net / Spare Parts, Supplies & Fuel",2025,FY,2025-05-31,602,False
+balance_sheet,"Inventory, Net / Spare Parts, Supplies & Fuel",2026,Q3,2026-02-28,631,False
+balance_sheet,Prepaid Expenses & Other Current Assets,2025,FY,2025-05-31,914,False
+balance_sheet,Prepaid Expenses & Other Current Assets,2026,Q3,2026-02-28,1351,False
+balance_sheet,Total Current Assets,2025,FY,2025-05-31,18386,True
+balance_sheet,Total Current Assets,2026,Q3,2026-02-28,25477,True
+balance_sheet,"Property, Plant & Equipment, Net",2025,FY,2025-05-31,41642,False
+balance_sheet,"Property, Plant & Equipment, Net",2026,Q3,2026-02-28,41539,False
+balance_sheet,Operating Lease Right-of-Use Assets,2025,FY,2025-05-31,16453,False
+balance_sheet,Operating Lease Right-of-Use Assets,2026,Q3,2026-02-28,16391,False
+balance_sheet,Goodwill,2025,FY,2025-05-31,6603,False
+balance_sheet,Goodwill,2026,Q3,2026-02-28,6758,False
+balance_sheet,Other Long-Term Assets,2025,FY,2025-05-31,4543,False
+balance_sheet,Other Long-Term Assets,2026,Q3,2026-02-28,4568,False
+balance_sheet,Total Assets,2025,FY,2025-05-31,87627,True
+balance_sheet,Total Assets,2026,Q3,2026-02-28,94733,True
+balance_sheet,Current Portion of Long-Term Debt,2025,FY,2025-05-31,1428,False
+balance_sheet,Current Portion of Long-Term Debt,2026,Q3,2026-02-28,2422,False
+balance_sheet,Accounts Payable,2025,FY,2025-05-31,3692,False
+balance_sheet,Accounts Payable,2026,Q3,2026-02-28,4154,False
+balance_sheet,Accrued Salaries & Employee Benefits,2025,FY,2025-05-31,2731,False
+balance_sheet,Accrued Salaries & Employee Benefits,2026,Q3,2026-02-28,3079,False
+balance_sheet,Current Operating Lease Liabilities,2025,FY,2025-05-31,2565,False
+balance_sheet,Current Operating Lease Liabilities,2026,Q3,2026-02-28,2624,False
+balance_sheet,Other Current Liabilities,2025,FY,2025-05-31,4995,False
+balance_sheet,Other Current Liabilities,2026,Q3,2026-02-28,5008,False
+balance_sheet,Total Current Liabilities,2025,FY,2025-05-31,15411,True
+balance_sheet,Total Current Liabilities,2026,Q3,2026-02-28,17287,True
+balance_sheet,"Long-Term Debt, Net",2025,FY,2025-05-31,19151,False
+balance_sheet,"Long-Term Debt, Net",2026,Q3,2026-02-28,22831,False
+balance_sheet,Noncurrent Operating Lease Liabilities,2025,FY,2025-05-31,14272,False
+balance_sheet,Noncurrent Operating Lease Liabilities,2026,Q3,2026-02-28,14145,False
+balance_sheet,Pension & Postretirement Liabilities,2025,FY,2025-05-31,1698,False
+balance_sheet,Pension & Postretirement Liabilities,2026,Q3,2026-02-28,1682,False
+balance_sheet,Deferred Income Tax Liabilities,2025,FY,2025-05-31,4205,False
+balance_sheet,Deferred Income Tax Liabilities,2026,Q3,2026-02-28,3841,False
+balance_sheet,Other Long-Term Liabilities,2025,FY,2025-05-31,4816,False
+balance_sheet,Other Long-Term Liabilities,2026,Q3,2026-02-28,5143,False
+balance_sheet,Total Liabilities,2025,FY,2025-05-31,59553,True
+balance_sheet,Total Liabilities,2026,Q3,2026-02-28,64929,True
+balance_sheet,Common Stock,2025,FY,2025-05-31,32,False
+balance_sheet,Common Stock,2026,Q3,2026-02-28,32,False
+balance_sheet,Additional Paid-In Capital,2025,FY,2025-05-31,4290,False
+balance_sheet,Additional Paid-In Capital,2026,Q3,2026-02-28,4614,False
+balance_sheet,Retained Earnings,2025,FY,2025-05-31,41402,False
+balance_sheet,Retained Earnings,2026,Q3,2026-02-28,42864,False
+balance_sheet,Treasury Stock,2025,FY,2025-05-31,16288,False
+balance_sheet,Treasury Stock,2026,Q3,2026-02-28,16486,False
+balance_sheet,Accumulated Other Comprehensive Income (Loss),2025,FY,2025-05-31,-1362,False
+balance_sheet,Accumulated Other Comprehensive Income (Loss),2026,Q3,2026-02-28,-1220,False
+balance_sheet,Total Stockholders' Equity,2025,FY,2025-05-31,28074,True
+balance_sheet,Total Stockholders' Equity,2026,Q3,2026-02-28,29804,True
+balance_sheet,Total Liabilities & Stockholders' Equity,2025,FY,2025-05-31,87627,True
+balance_sheet,Total Liabilities & Stockholders' Equity,2026,Q3,2026-02-28,94733,True
+cash_flow,Depreciation & Amortization,2025,Q3_YTD,2025-02-28,3207,False
+cash_flow,Depreciation & Amortization,2026,Q3_YTD,2026-02-28,3272,False
+cash_flow,Stock-Based Compensation,2025,Q3_YTD,2025-02-28,116,False
+cash_flow,Stock-Based Compensation,2026,Q3_YTD,2026-02-28,136,False
+cash_flow,Change in Receivables,2025,Q3_YTD,2025-02-28,692,False
+cash_flow,Change in Receivables,2026,Q3_YTD,2026-02-28,1090,False
+cash_flow,Net Cash from Operating Activities,2025,Q3_YTD,2025-02-28,4517,True
+cash_flow,Net Cash from Operating Activities,2026,Q3_YTD,2026-02-28,5660,True
+cash_flow,Capital Expenditures,2025,Q3_YTD,2025-02-28,2582,False
+cash_flow,Capital Expenditures,2026,Q3_YTD,2026-02-28,2335,False
+cash_flow,Proceeds from Asset Sales,2025,Q3_YTD,2025-02-28,42,False
+cash_flow,Proceeds from Asset Sales,2026,Q3_YTD,2026-02-28,73,False
+cash_flow,Purchases of Investments,2025,Q3_YTD,2025-02-28,197,False
+cash_flow,Purchases of Investments,2026,Q3_YTD,2026-02-28,427,False
+cash_flow,Sales/Maturities of Investments,2025,Q3_YTD,2025-02-28,77,False
+cash_flow,Sales/Maturities of Investments,2026,Q3_YTD,2026-02-28,254,False
+cash_flow,Net Cash from Investing Activities,2025,Q3_YTD,2025-02-28,-2660,True
+cash_flow,Net Cash from Investing Activities,2026,Q3_YTD,2026-02-28,-2435,True
+cash_flow,Proceeds from Debt Issuance,2026,Q3_YTD,2026-02-28,4689,False
+cash_flow,Repayments of Debt,2025,Q3_YTD,2025-02-28,89,False
+cash_flow,Repayments of Debt,2026,Q3_YTD,2026-02-28,714,False
+cash_flow,Dividends Paid,2025,Q3_YTD,2025-02-28,1008,False
+cash_flow,Dividends Paid,2026,Q3_YTD,2026-02-28,1028,False
+cash_flow,Share Repurchases,2025,Q3_YTD,2025-02-28,2517,False
+cash_flow,Share Repurchases,2026,Q3_YTD,2026-02-28,796,False
+cash_flow,Proceeds from Stock Issuance,2025,Q3_YTD,2025-02-28,472,False
+cash_flow,Proceeds from Stock Issuance,2026,Q3_YTD,2026-02-28,774,False
+cash_flow,Net Cash from Financing Activities,2025,Q3_YTD,2025-02-28,-3172,True
+cash_flow,Net Cash from Financing Activities,2026,Q3_YTD,2026-02-28,2876,True
+cash_flow,Effect of Exchange Rate on Cash,2025,Q3_YTD,2025-02-28,-51,False
+cash_flow,Effect of Exchange Rate on Cash,2026,Q3_YTD,2026-02-28,85,False
+cash_flow,Net Change in Cash,2025,Q3_YTD,2025-02-28,-1366,True
+cash_flow,Net Change in Cash,2026,Q3_YTD,2026-02-28,6186,True
