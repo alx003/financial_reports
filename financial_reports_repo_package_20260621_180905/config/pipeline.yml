@@ -1,0 +1,15 @@
+sec:
+  # SEC EDGAR requires a descriptive User-Agent with a real contact email.
+  # Update this before running -- requests with a placeholder/blank email
+  # may be throttled or blocked.
+  user_agent: "Allison Xu financial_reports research allisonxu.research@example.com"
+
+companies:
+  - ticker: FDX
+    name: "FedEx Corporation"
+    cik: 1048911
+
+output:
+  excel_dir: outputs
+  csv_dir: dataset
+  quarter_years: 5
